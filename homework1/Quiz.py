@@ -71,4 +71,3 @@ else:
     print ('Neverno!')
     
 print ('Parvilnih otvetov: '+str(i)+' iz 10')
-input()
