@@ -1,5 +1,6 @@
 i = 0
 q = raw_input('1. Kakoy yazyk my uchim?:')
+
 if q.upper() == 'PYTHON':
     print('Verno!')
     i+=1
